@@ -11,6 +11,10 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 - **Language:** TypeScript
 
 ## 🚀 Cara Menjalankan
-1. Clone repository ini.
-2. Jalankan `npm install`.
-3. Jalankan `npx expo start`.
+1. Clone repository ini:
+2. Masuk ke folder project: cd mission2
+3. Install dependencies: npm install
+4. Jalankan aplikasi: npx expo start
+
+## 🥨 Live Preview (Expo Snack)
+[Klik di sini untuk melihat aplikasi secara langsung](https://snack.expo.dev/@shb73/kartu-digital)
