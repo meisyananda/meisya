@@ -11,10 +11,10 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 - **Language:** TypeScript
 
 ## 🚀 Cara Menjalankan
-1. Clone repository ini: (https://github.com/meisyananda/meisya/blob/main/README.md)
+1. Clone repository ini: (https://github.com/meisyananda/meisya)
 3. Masuk ke folder project: cd meisya
 4. Install dependencies: npm install
 5. Jalankan aplikasi: npx expo start
 
 ## 🥨 Live Preview (Expo Snack)
-[Klik di sini untuk melihat aplikasi secara langsung] (https://snack.expo.dev/@meisyananda/meisyatugas)
+[Klik di sini untuk melihat aplikasi secara langsung] (https://snack.expo.dev/@meisyananda/tugas-meisya)
