@@ -17,4 +17,4 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 4. Jalankan aplikasi: npx expo start
 
 ## 🥨 Live Preview (Expo Snack)
-[Klik di sini untuk melihat aplikasi secara langsung](https://snack.expo.dev/@shb73/kartu-digital)
+[Klik di sini untuk melihat aplikasi secara langsung] ([https://snack.expo.dev/@shb73/kartu-digital](https://snack.expo.dev/@meisyananda/meisyatugas)
